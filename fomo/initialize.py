@@ -18,6 +18,7 @@ user1.stateinitial = "UT"
 user1.zipcode = "84602"
 user1.save()
 
+
 #user 2
 user2 = FomoUser();
 user2.address = "Provo, UT 84602"
