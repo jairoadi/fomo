@@ -1,0 +1,36 @@
+.warning{
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.navbar{
+    background-color:#004d66;
+    color: #ffffff;
+}
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  color: #a0b3c5;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #a0b3c5;
+}
+
+.left{
+    border-right: solid 1px;
+    height: 100%;
+}
+.right{
+    border-left: solid 1px;
+    height: 100%;
+}
